@@ -115,6 +115,7 @@ Hannah Sung
 - [Nathan850](https://github.com/az567812az)
 - [Ashish Lakra](https://github.com/ashishlakraa)
 - [Lakshmi Suhrutha]
+-[Sonu Gupta](https://github.com/sonu28gpt)
 - [Jal shah](https://github.com/Jal5452)
 - [Jay Gaha](https://github.com/jaygaha) First contribution 🦾
 - [Joy Huang](https://github.com/joyeee)
